@@ -1,0 +1,17 @@
+{
+  "url_png_icon_64x64": "https://raw.githubusercontent.com/MDimow/pool-metadata/main/cc_256x256.png",
+  "url_png_logo": "https://raw.githubusercontent.com/MDimow/pool-metadata/main/cc_256x256.png",
+  "location": "Europe",
+  "social": {
+    "twitter_handle": "CheekyCrypto",
+    "youtube_handle": "@CheekyCrypto",
+    "discord_handle": "cheekycrypto"
+  },
+  "about": {
+    "me": "We are Cheeky Crypto — building communities, staking opportunities and educational content around Cardano.",
+    "server": "Multiple bare metal nodes across Europe."
+  },
+  "my-pool-ids": {
+    "0": "pool1zj4h7kc6v53q9r8x3fwzfuayf2frwme8u5k86gu0uzeeuvqxgul"
+  }
+}
