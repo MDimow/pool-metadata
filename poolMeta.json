@@ -3,5 +3,5 @@
   "description": "Cheeky Crypto - reliable and secure ADA stake pool.",
   "ticker": "CHEEK",
   "homepage": "https://cheekycrypto.io/",
-  "extended": "https://raw.githubusercontent.com/MDimow/pool-metadata/main/extendedMeta.json"
+  "extended": "https://cdn.jsdelivr.net/gh/MDimow/pool-metadata@main/extendedMeta.json"
 }
