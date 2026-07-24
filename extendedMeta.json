@@ -1,6 +1,6 @@
 {
-  "url_png_icon_64x64": "https://raw.githubusercontent.com/MDimow/pool-metadata/main/cc_256x256.png",
-  "url_png_logo": "https://raw.githubusercontent.com/MDimow/pool-metadata/main/cc_256x256.png",
+  "url_png_icon_64x64": "https://cdn.jsdelivr.net/gh/MDimow/pool-metadata@main/cc_256x256.png",
+  "url_png_logo": "https://cdn.jsdelivr.net/gh/MDimow/pool-metadata@main/cc_256x256.png",
   "location": "Europe",
   "social": {
     "twitter_handle": "CheekyCrypto",
