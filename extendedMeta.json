@@ -1,15 +1,17 @@
 {
-  "url_png_icon_64x64": "https://mdimow.github.io/pool-metadata/cc_256x256.png",
-  "url_png_logo": "https://mdimow.github.io/pool-metadata/cc_256x256.png",
-  "location": "Europe",
-  "social": {
-    "twitter_handle": "CheekyCrypto",
-    "youtube_handle": "@CheekyCrypto",
-    "discord_handle": "cheekycrypto"
-  },
-  "about": {
-    "me": "We are Cheeky Crypto — building communities, staking opportunities and educational content around Cardano.",
-    "server": "Multiple bare metal nodes across Europe."
+  "info": {
+    "location": "Europe",
+    "social": {
+      "twitter_handle": "CheekyCrypto",
+      "youtube_handle": "@CheekyCrypto",
+      "discord_handle": "cheekycrypto"
+    },
+    "about": {
+      "me": "We are Cheeky Crypto — building communities, staking opportunities and educational content around Cardano.",
+      "server": "Multiple bare metal nodes across Europe."
+    },
+    "url_png_icon_64x64": "https://mdimow.github.io/pool-metadata/cc_64x64.png",
+    "url_png_logo": "https://mdimow.github.io/pool-metadata/cc_256x256.png"
   },
   "my-pool-ids": {
     "0": "pool1zj4h7kc6v53q9r8x3fwzfuayf2frwme8u5k86gu0uzeeuvqxgul"
